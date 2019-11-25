@@ -1,9 +1,10 @@
-# How to use
+# Student Forum
+This is a forum for university Students for ask questions and sharing past papers.
 
 
-Clone repo
+Clone repository or Downloa
 
-	git clone https://github.com/webdevmatics/webdevforum.git
+	git clone https://github.com/MunzirAhmadh/Student-Forum.git
 Install the composer dependencies
 
 	composer install
@@ -16,4 +17,4 @@ Set application key
 
 And Migrate with
 
-`php artisan migrate`
+	php artisan migrate
